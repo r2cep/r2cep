@@ -1,16 +1,17 @@
-### Hi there 👋
+## **RECEP ŞANLI**
+<a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://media.giphy.com/media/l0MYChxfXTrdvEc24/giphy.gif"></a>
+<br/>
+### Who Am I
+  - 🌻: i study mechanical engineering 1nd grade Arel University
+  - 🌻: my best favorites playing electronic guitar and writting poem
+  - 🌻: my contact: r2cep@outlook.com
+  
 
-<!--
-**r2cep/r2cep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Sosyal Medya
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/r2cep/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r2cep/)
