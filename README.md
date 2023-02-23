@@ -1,5 +1,5 @@
 ## *RECEP ŞANLI*
-<a target="_blank"><img align="right" height="500" width="400" alt="𝙶𝙸𝙵" src="https://media.giphy.com/media/YO45ydzTCoHdoR074O/giphy.gif"></a>
+<a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://media.giphy.com/media/w89X8VveLh9gk/giphy.gif"></a>
 <br/>
 ### Who Am I
   - 🌻: i study mechanical engineering 1nd grade Arel University
